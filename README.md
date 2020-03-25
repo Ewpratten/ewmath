@@ -35,6 +35,6 @@ dependencies {
 <dependency>
     <groupId>com.github.ewpratten</groupId>
     <artifactId>libvec</artifactId>
-    <version>Tag</version>
+    <version>master-SNAPSHOT</version>
 </dependency>
 ```
