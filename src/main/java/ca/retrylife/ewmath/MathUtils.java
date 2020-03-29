@@ -3,6 +3,9 @@ package ca.retrylife.ewmath;
 import java.util.HashMap;
 
 public class MathUtils {
+    
+    // A very small number to be used for comparing floats
+    public static final double kVerySmallNumber = 1e-12;
 
     /**
      * This allows the angle to respect 'wrapping', where 360 and 0 are the same
