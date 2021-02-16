@@ -1,3 +1,7 @@
+### *This library has been deprecated in favour of [ewpratten/mathutils](https://github.com/Ewpratten/mathutils)*
+
+---
+
 # ewmath
 Math utilities for java.
 
